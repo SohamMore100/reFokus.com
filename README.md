@@ -2,7 +2,7 @@
 
 # Refokus Website Clone
 
-Welcome to the Refokus website clone project! This project aims to replicate the design and functionality of the Refokus website using HTML, CSS, and JavaScript. Additionally, it utilizes Locomotive Scroll and GSAP for smooth scrolling effects, and Shery.js for animations.
+Welcome to the Refokus website clone project! This project aims to replicate the design and functionality of the Refokus website using HTML, CSS, JavaScript. Additionally, it utilizes Locomotive Scroll and GSAP for smooth scrolling effects, and Shery.js for animations.
 
 ## Features
 
@@ -18,15 +18,12 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 - **JavaScript**: Programming language for adding interactivity and dynamic features.
 - **Locomotive Scroll**: JavaScript library for smooth scrolling effects.
 - **GSAP**: GreenSock Animation Platform for creating animations.
-- **Shery.js**: JavaScript library for creating scroll animations.
+- **Framer Motion**: React Animation library that makes creating animations easy.
 
-## Preview
-
-![Refokus Website Clone Preview](/public/preview.png)
 
 ## Live Website
 
-Explore Refokus-Clone live: [Refokus-Clone Live]()
+Explore Refokus-Clone live: [Refokus-Clone Live](https://refokus-ecru.vercel.app/)
 
 ## Contribution
 
@@ -40,4 +37,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - For providing smooth scrolling effects.
 - [GSAP](https://greensock.com/gsap/) - For offering powerful animation tools and libraries.
-- [Shery.js](https://sheryjs.dev/) - For enabling scroll animations.
+- [Framer Motion](https://www.framer.com/motion/introduction/) - For enabling scroll animations.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
