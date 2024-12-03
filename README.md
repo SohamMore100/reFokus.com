@@ -9,7 +9,7 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 - **Replicated Design**: Recreate the design and layout of the Refokus website.
 - **HTML, CSS, JavaScript**: Use standard web technologies for building the website.
 - **Smooth Scrolling**: Implement smooth scrolling effects using Locomotive Scroll.
-- **Animations**: Incorporate animations using GSAP and Shery.js.
+- **Animations**: Incorporate animations using GSAP and Framer Motion.
 
 ## Tech Stack
 
